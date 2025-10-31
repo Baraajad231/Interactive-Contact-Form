@@ -16,4 +16,4 @@ A modern, responsive contact form built with **HTML, CSS, and JavaScript**. It f
 - Vanilla JavaScript
 
 ## Demo
-You can host this project on **GitHub Pages** or any static site host to see it live.
+https://baraajad231.github.io/Interactive-Contact-Form/
