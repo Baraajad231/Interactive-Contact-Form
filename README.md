@@ -1,2 +1,19 @@
-# Interactive-Contact-Form-with-Validation-and-Success-Popup
+# Interactive Contact Form
+
 A modern, responsive contact form built with **HTML, CSS, and JavaScript**. It features real-time validation, interactive radio buttons, a consent checkbox, and a success popup.
+
+## Features
+- Required field validation
+- Email format checking
+- Dynamic error messages
+- Success popup with smooth animation
+- Keyboard support (Enter key submission)
+- Responsive and accessible design with ARIA attributes
+
+## Tech Stack
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## Demo
+You can host this project on **GitHub Pages** or any static site host to see it live.
